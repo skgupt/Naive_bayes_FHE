@@ -4,3 +4,6 @@ A Naive-Bayes classifier that uses the Fan and Vercauteran Fully Homomorphic Enc
 The classifier is written in the R language and makes uses of the Homomorphic Encryption package developed by Louis Aslett. For instructions on how to install the Fully Homomorphic encryption package see https://www.louisaslett.com/HomomorphicEncryption/.
 
 Run the classifier from the script main.R and obtain statistics. 
+
+Please cite 
+Gupta, S. Privacy Protection of Health Care Data Interpreted by Machine Learning Algorithms Using Fully Homomorphic Encryption (BCs thesis). ResearchGate preprint https://www.researchgate.net/publication/340948837_Privacy_Protection_of_Health_Care_Data_Interpreted_by_Machine_Learning_Algorithms_Using_Fully_Homomorphic_Encryption/comments. 2020. 
